@@ -1,0 +1,31 @@
+/* Style body by adding background image and set it to cover and add font family*/
+body {
+    font-family: Arvo, serif;
+    background: url(Images/image.jpg) fixed;
+    background-size: cover;
+}
+
+/* Style brand image */
+.logo {
+    height: 40px;
+}
+
+/* Style Nav Bar */
+
+
+/* Style jumbotron*/
+
+
+/* limit the width of the icon section */
+
+
+/* STyle icons using bootstrap srid system */
+
+
+/* Style contact button */
+
+
+/* Style Footer */
+
+
+/* use media query to change icon size in small devices */
